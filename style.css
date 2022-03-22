@@ -1,0 +1,45 @@
+.item-marked {
+  background-color: rgb(128, 128, 128);
+  color: rgb(245, 245, 245);
+  transform: scale(1.5);
+  transition: 0.8s;
+}
+
+#fist-buttons button {
+  margin: 20px 5px 20px 5px;
+}
+#buttons-arrow button {
+  margin-left: 10px;
+  font-size: 30px;
+  padding: 0px 20px;
+}
+body {
+  background-color: rgb(245, 245, 245);
+}
+
+footer {
+  background-color: rgb(179, 179, 179);
+  margin-top: 315px;
+  padding: 25px;
+}
+header {
+  margin-bottom: 120px;
+  background-image: url('myTodoList.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+h3 {
+  margin-bottom: 20px;
+}
+#section-input {
+  margin-bottom: 48px;
+}
+li {
+  font-size: 20px;
+}
+footer p {
+  margin-top: 15px;
+}
+#section-h3 {
+  margin-top: 80px;
+}
